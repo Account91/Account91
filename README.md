@@ -117,9 +117,6 @@ I have a strong interest in cybersecurity, mainly web application security, and 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![VulnHub](https://img.shields.io/badge/VulnHub-4B0082?style=for-the-badge)
 
-
-*(garde uniquement les outils que tu as réellement pratiqués — en sécurité plus que partout ailleurs, un badge non justifiable en entretien technique se retourne vite contre toi)*
-
 </details>
 
 <details>
