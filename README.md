@@ -8,6 +8,7 @@ Building backend systems, full-stack apps, and self-hosted infrastructure — an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-e-a4b46a2b3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-amineelghazi.github.io-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://amineelghazi.github.io/)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/VOTRE_ID)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amineelghazi100@hotmail.com)
 
 </div>
@@ -16,11 +17,11 @@ Building backend systems, full-stack apps, and self-hosted infrastructure — an
 
 ## About
 
-I'm pursuing a DEC in Computer Science in Montreal, with a focus on backend engineering, full-stack development, and infrastructure. I like understanding systems end-to-end — from the database schema up to the reverse proxy in front of it.
+Software engineering student and developer with hands-on experience in backend development (NestJS) and 2D game development (Unity, C#). Comfortable working in a team, solving problems, and picking up new technologies quickly.
 
-Outside of coursework, I build side projects to learn things properly rather than just reading about them: a Unity game to practice game architecture, a self-hosted Docker stack to learn DevOps by actually breaking things.
+I have a strong interest in cybersecurity, mainly web application security, and in applying good engineering practices — I spend spare time on Hack The Box working through boxes and CTF-style challenges.
 
-**Currently:** actively looking for a software engineering internship (35h/week).
+**Currently:** looking for a full-time internship for Winter 2027.
 
 ---
 
@@ -59,6 +60,58 @@ Outside of coursework, I build side projects to learn things properly rather tha
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Security & CTF</b></summary>
+<br>
+
+**Recon & Networking**
+
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+**Web Exploitation**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-40826D?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-2E4053?style=for-the-badge)
+![SQLmap](https://img.shields.io/badge/SQLmap-D22128?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-3E4A61?style=for-the-badge)
+![WPScan](https://img.shields.io/badge/WPScan-21759B?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-C8102E?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-00CC99?style=for-the-badge)
+
+**Active Directory & Post-Exploitation**
+
+![Mimikatz](https://img.shields.io/badge/Mimikatz-8B0000?style=for-the-badge)
+![NetExec](https://img.shields.io/badge/NetExec-2E8B57?style=for-the-badge)
+![BloodHound](https://img.shields.io/badge/BloodHound-1A1A1A?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-1A1A1A?style=for-the-badge)
+
+**Reverse Engineering & Forensics**
+
+![Ghidra](https://img.shields.io/badge/Ghidra-9C1A22?style=for-the-badge)
+![Volatility](https://img.shields.io/badge/Volatility-4B5D67?style=for-the-badge)
+
+**Steganography**
+
+![Steghide](https://img.shields.io/badge/Steghide-556B2F?style=for-the-badge)
+![Binwalk](https://img.shields.io/badge/Binwalk-4B4B4B?style=for-the-badge)
+![ExifTool](https://img.shields.io/badge/ExifTool-CC6600?style=for-the-badge)
+![zsteg](https://img.shields.io/badge/zsteg-800080?style=for-the-badge)
+![Foremost](https://img.shields.io/badge/Foremost-2F4F4F?style=for-the-badge)
+
+**Platforms**
+
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+*(garde uniquement les outils que tu as réellement pratiqués — en sécurité plus que partout ailleurs, un badge non justifiable en entretien technique se retourne vite contre toi)*
 
 </details>
 
