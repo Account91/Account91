@@ -19,7 +19,7 @@ Building backend systems, full stack apps, 2D Unity games, mobile apps with Reac
 
 Software engineering student with hands-on experience building backend services, full-stack applications, mobile applications, and 2D games.
 
-I enjoy working across the stack — from designing APIs and databases to deploying applications with containers and infrastructure tooling.
+I enjoy working across the stack - from designing APIs and databases to deploying applications with containers and infrastructure tooling.
 
 I'm also developing my cybersecurity skills with a focus on **web application security, reconnaissance, and CTF-style challenges** through platforms such as Hack The Box.
 
@@ -86,7 +86,7 @@ I'm currently developing practical cybersecurity skills with an emphasis on **we
 ## What I'm Working On
 
 * Building and improving full-stack applications
-* Developing **1346 – Caffa** in Unity
+* Developing **1346 - Caffa** in Unity
 * Learning more about backend architecture and infrastructure
 * Practicing web application security and penetration-testing fundamentals
 * Exploring cloud and containerized deployments
