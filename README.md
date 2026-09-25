@@ -4,7 +4,7 @@
 
 **Software Engineering Student · Montreal, QC**
 
-Building backend systems, full stack apps, 2D unity games , mobile apps with react & expo go and learning web app pentesting
+Building backend systems, full stack apps, 2D unity games , learning mobile apps with react & expo go and web app pentesting
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amineelghazi.github.io-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://amineelghazi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-e-a4b46a2b3)
@@ -16,9 +16,9 @@ Building backend systems, full stack apps, 2D unity games , mobile apps with rea
 
 ## About
 
-Software engineering student and developer with hands-on experience in backend development (NestJS) and 2D game development (Unity, C#). Comfortable working in a team, solving problems, and picking up new technologies quickly.
+Software engineering student and developer with experience in backend development (NestJS) and 2D game development (Unity, C#). Comfortable working in a team, solving problems, and picking up new technologies quickly.
 
-I have a strong interest in cybersecurity, mainly web application security, and in applying good engineering practices — I spend spare time on Hack The Box working through boxes and CTF-style challenges.
+I have a strong interest in cybersecurity, mainly web application security, and in applying good engineering practices. I spend spare time on Hack The Box working through boxes and CTF-style challenges.
 
 **Currently:** looking for a full-time internship for Winter 2027.
 
