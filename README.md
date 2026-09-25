@@ -18,7 +18,7 @@ Building backend systems, full stack apps, 2D unity games , learning mobile apps
 
 Software engineering student and developer with experience in backend development (NestJS) and 2D game development (Unity, C#). Comfortable working in a team, solving problems, and picking up new technologies quickly.
 
-I have a strong interest in cybersecurity, mainly web application security, and in applying good engineering practices. I spend spare time on Hack The Box working through boxes and CTF-style challenges.
+I have a strong interest in cybersecurity, mainly web application security, and in applying good engineering practices. I spend spare time on Hack The Box working through boxes and CTF style challenges.
 
 **Currently:** looking for a full-time internship for Winter 2027.
 
