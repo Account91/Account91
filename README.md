@@ -73,9 +73,6 @@ I have a strong interest in cybersecurity, mainly web application security, and 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Netcat](https://img.shields.io/badge/Netcat-2E2E2E?style=for-the-badge)
-![tcpdump](https://img.shields.io/badge/tcpdump-3E4A61?style=for-the-badge)
-![Masscan](https://img.shields.io/badge/Masscan-4B0082?style=for-the-badge)
-![Amass](https://img.shields.io/badge/Amass-2F4F4F?style=for-the-badge)
 ![theHarvester](https://img.shields.io/badge/theHarvester-556B2F?style=for-the-badge)
 ![enum4linux](https://img.shields.io/badge/enum4linux-1A1A1A?style=for-the-badge)
 
@@ -86,12 +83,8 @@ I have a strong interest in cybersecurity, mainly web application security, and 
 ![ffuf](https://img.shields.io/badge/ffuf-40826D?style=for-the-badge)
 ![Gobuster](https://img.shields.io/badge/Gobuster-2E4053?style=for-the-badge)
 ![Feroxbuster](https://img.shields.io/badge/Feroxbuster-B22222?style=for-the-badge)
-![Wfuzz](https://img.shields.io/badge/Wfuzz-6A5ACD?style=for-the-badge)
 ![SQLmap](https://img.shields.io/badge/SQLmap-D22128?style=for-the-badge)
 ![Nikto](https://img.shields.io/badge/Nikto-3E4A61?style=for-the-badge)
-![WPScan](https://img.shields.io/badge/WPScan-21759B?style=for-the-badge)
-![Nuclei](https://img.shields.io/badge/Nuclei-DC382D?style=for-the-badge)
-![XSStrike](https://img.shields.io/badge/XSStrike-8B0000?style=for-the-badge)
 ![Hydra](https://img.shields.io/badge/Hydra-C8102E?style=for-the-badge)
 
 **Active Directory & Post-Exploitation**
@@ -101,69 +94,28 @@ I have a strong interest in cybersecurity, mainly web application security, and 
 ![BloodHound](https://img.shields.io/badge/BloodHound-1A1A1A?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Impacket](https://img.shields.io/badge/Impacket-4B4B4B?style=for-the-badge)
-![Rubeus](https://img.shields.io/badge/Rubeus-6B4226?style=for-the-badge)
-![PowerView](https://img.shields.io/badge/PowerView-00509D?style=for-the-badge)
 ![Evil--WinRM](https://img.shields.io/badge/Evil--WinRM-2F2F2F?style=for-the-badge)
-![Responder](https://img.shields.io/badge/Responder-8A2BE2?style=for-the-badge)
-![Chisel](https://img.shields.io/badge/Chisel-708090?style=for-the-badge)
-![Ligolo--ng](https://img.shields.io/badge/Ligolo--ng-2E4053?style=for-the-badge)
-
 **Password Attacks**
 
 ![Hashcat](https://img.shields.io/badge/Hashcat-00CC99?style=for-the-badge)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-1A1A1A?style=for-the-badge)
-![CeWL](https://img.shields.io/badge/CeWL-8B4513?style=for-the-badge)
-![Crunch](https://img.shields.io/badge/Crunch-696969?style=for-the-badge)
-![Hashid](https://img.shields.io/badge/Hashid-483D8B?style=for-the-badge)
-
-**Reverse Engineering & Forensics**
-
-![Ghidra](https://img.shields.io/badge/Ghidra-9C1A22?style=for-the-badge)
-![Radare2](https://img.shields.io/badge/Radare2-000000?style=for-the-badge)
-![x64dbg](https://img.shields.io/badge/x64dbg-1A1A2E?style=for-the-badge)
-![Volatility](https://img.shields.io/badge/Volatility-4B5D67?style=for-the-badge)
-![Autopsy](https://img.shields.io/badge/Autopsy-2E4053?style=for-the-badge)
-![YARA](https://img.shields.io/badge/YARA-6A0DAD?style=for-the-badge)
 
 **Steganography**
 
 ![Steghide](https://img.shields.io/badge/Steghide-556B2F?style=for-the-badge)
-![Binwalk](https://img.shields.io/badge/Binwalk-4B4B4B?style=for-the-badge)
 ![ExifTool](https://img.shields.io/badge/ExifTool-CC6600?style=for-the-badge)
-![zsteg](https://img.shields.io/badge/zsteg-800080?style=for-the-badge)
-![Foremost](https://img.shields.io/badge/Foremost-2F4F4F?style=for-the-badge)
-![StegSolve](https://img.shields.io/badge/StegSolve-4682B4?style=for-the-badge)
-![StegCracker](https://img.shields.io/badge/StegCracker-3B3B3B?style=for-the-badge)
-
-**Wireless**
-
-![Aircrack--ng](https://img.shields.io/badge/Aircrack--ng-1A1A1A?style=for-the-badge)
-![Wifite](https://img.shields.io/badge/Wifite-2E8B57?style=for-the-badge)
-![Kismet](https://img.shields.io/badge/Kismet-4B0082?style=for-the-badge)
-![Reaver](https://img.shields.io/badge/Reaver-8B0000?style=for-the-badge)
-
-**Mobile & Cloud**
-
-![MobSF](https://img.shields.io/badge/MobSF-2E4053?style=for-the-badge)
-![Frida](https://img.shields.io/badge/Frida-771B67?style=for-the-badge)
-![apktool](https://img.shields.io/badge/apktool-3DDC84?style=for-the-badge)
-![Pacu](https://img.shields.io/badge/Pacu-FF9900?style=for-the-badge)
-![ScoutSuite](https://img.shields.io/badge/ScoutSuite-4B4B4B?style=for-the-badge)
 
 **OSINT**
 
-![Maltego](https://img.shields.io/badge/Maltego-1A1A1A?style=for-the-badge)
 ![SpiderFoot](https://img.shields.io/badge/SpiderFoot-2E4053?style=for-the-badge)
 ![Shodan](https://img.shields.io/badge/Shodan-B71C1C?style=for-the-badge)
-![Recon--ng](https://img.shields.io/badge/Recon--ng-556B2F?style=for-the-badge)
 
 **Platforms**
 
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![PortSwigger Academy](https://img.shields.io/badge/PortSwigger_Academy-FF6633?style=for-the-badge)
 ![VulnHub](https://img.shields.io/badge/VulnHub-4B0082?style=for-the-badge)
-![OverTheWire](https://img.shields.io/badge/OverTheWire-2F4F4F?style=for-the-badge)
+
 
 *(garde uniquement les outils que tu as réellement pratiqués — en sécurité plus que partout ailleurs, un badge non justifiable en entretien technique se retourne vite contre toi)*
 
