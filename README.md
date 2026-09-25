@@ -9,17 +9,11 @@ Interested in software engineering, infrastructure, and web application security
 
 <br>
 
-<a href="https://amineelghazi.github.io/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-amineelghazi.github.io-161B22?style=for-the-badge&labelColor=161B22" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/amine-e-a4b46a2b3">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-161B22?style=for-the-badge&labelColor=161B22" />
-</a>
-&nbsp;
-<a href="https://app.hackthebox.com/users/2074425">
-  <img src="https://img.shields.io/badge/🔐%20Hack%20The%20Box-Profile-161B22?style=for-the-badge&labelColor=161B22" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-amineelghazi.github.io-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://amineelghazi.github.io/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-e-a4b46a2b3)
+
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2074425)
 
 </div>
 
