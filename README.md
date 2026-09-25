@@ -4,7 +4,7 @@
 
 **Software Engineering Student · Montreal, QC**
 
-Building backend systems, full-stack apps, and self-hosted infrastructure — and figuring out how they all fit together.
+Building backend systems, full stack apps, 2D unity games , mobile apps with react & expo go and learning web app pentesting
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amineelghazi.github.io-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://amineelghazi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-e-a4b46a2b3)
@@ -38,6 +38,8 @@ I have a strong interest in cybersecurity, mainly web application security, and 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C2024.svg?style=for-the-badge&logo=expo&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -109,6 +111,7 @@ I have a strong interest in cybersecurity, mainly web application security, and 
 
 ![SpiderFoot](https://img.shields.io/badge/SpiderFoot-2E4053?style=for-the-badge)
 ![Shodan](https://img.shields.io/badge/Shodan-B71C1C?style=for-the-badge)
+![Maigret](https://img.shields.io/badge/Maigret-4B0082?style=for-the-badge)
 
 **Platforms**
 
