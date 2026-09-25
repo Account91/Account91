@@ -7,11 +7,22 @@
 Building backend systems, full-stack applications, 2D games, and mobile apps.
 Interested in software engineering, infrastructure, and web application security.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-amineelghazi.github.io-0A66C2?style=flat\&logo=googlechrome\&logoColor=white)](https://amineelghazi.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/amine-e-a4b46a2b3)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=flat\&logo=hackthebox\&logoColor=black)](https://app.hackthebox.com/users/2074425)
+<br>
+
+<a href="https://amineelghazi.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/amine-e-a4b46a2b3">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://app.hackthebox.com/users/2074425">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-111827?style=flat-square&logo=hackthebox&logoColor=white" />
+</a>
 
 </div>
+
 
 ---
 
