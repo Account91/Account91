@@ -6,9 +6,9 @@
 
 Building backend systems, full-stack apps, and self-hosted infrastructure — and figuring out how they all fit together.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-amineelghazi.github.io-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://amineelghazi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-e-a4b46a2b3)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2074425)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amineelghazi.github.io-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://amineelghazi.github.io/)
 
 </div>
 
